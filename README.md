@@ -1,2 +1,2 @@
-# pyspider
-A web spider which could craw relevant data automatically
+# web crawler
+web crawler for used car infomation of Carfax and craigslist
